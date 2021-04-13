@@ -1,0 +1,24 @@
+{
+  "name": "react_init",
+  "version": "1.0.0",
+  "description": "react webpack ts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whiteviolet/react_init.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whiteviolet/react_init/issues"
+  },
+  "homepage": "https://github.com/whiteviolet/react_init#readme",
+  "devDependencies": {
+    "webpack": "^5.31.2",
+    "webpack-cli": "^4.6.0"
+  }
+}
