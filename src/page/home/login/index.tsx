@@ -6,6 +6,6 @@ export default class Login extends React.Component {
       name: 'aa',
       passWord: ''
     }
-    return <div>这是个登录页面{userData.name}</div>
+    return <div>这是个登录页面a1{userData.name}</div>
   }
 }
